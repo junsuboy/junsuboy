@@ -44,9 +44,6 @@
 
 [![image](https://user-images.githubusercontent.com/86935775/130711156-e1111e42-3573-4657-805a-f31965a7440b.png)](https://junsuboy.github.io)
 
-
-  <br><br>
-
 **Click to see my BLOG!!!**
 
   <br><br>
