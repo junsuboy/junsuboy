@@ -39,7 +39,9 @@
   
 ## ✨ This is my Blog! ✨
 
-[Try it](https://junsuboy.github.io)
+[![image](https://user-images.githubusercontent.com/86935775/130711156-e1111e42-3573-4657-805a-f31965a7440b.png)](https://junsuboy.github.io)
+
+**Click to see my BLOG!!!**
 
 <br />
 
