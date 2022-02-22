@@ -1,7 +1,6 @@
 <div align="center">
 
 # 장준수위프트
-# 스위프트 외길인생, 30년차 스위프트 맛집
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunsuboy&count_bg=%23FF8A00&title_bg=%230063FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/junsuboy)
 
