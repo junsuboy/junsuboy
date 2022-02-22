@@ -44,14 +44,6 @@
 </div>
   
   <br><br>
-  
-## ✨ This is my Blog! ✨
-
-[![image](https://user-images.githubusercontent.com/86935775/130711156-e1111e42-3573-4657-805a-f31965a7440b.png)](https://junsuboy.github.io)
-
-**Click to see my BLOG!!!**
-
-  <br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junsuboy&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junsuboy&layout=compact)](https://github.com/junsuboy/github-readme-stats)
