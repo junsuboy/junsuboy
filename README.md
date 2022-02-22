@@ -1,6 +1,7 @@
 <div align="center">
 
 # 장준수위프트
+# 스위프트 외길인생, 30년차 스위프트 맛집
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunsuboy&count_bg=%23FF8A00&title_bg=%230063FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/junsuboy)
 
@@ -13,6 +14,7 @@
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/C++-F76707?style=flat-square&logo=Swift&logoColor=white"/></a>
   
   <br><br>
   
