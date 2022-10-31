@@ -11,7 +11,6 @@
   
 ## ✨ Tech Stack ✨
   <img src="https://img.shields.io/badge/Swift-F76707?style=flat-square&logo=Swift&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Swift-F76707?style=flat-square&logo=SwiftUI&logoColor=white"/></a>
   
   <br>
   
