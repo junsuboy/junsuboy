@@ -20,22 +20,6 @@
   
   <br><br>
   
-## ✨ Front-end Stack ✨
-
-<div>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-F68212?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white"/>
-<img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=white"/>
-<img src="https://img.shields.io/badge/VSCode-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/>
-</div>
-
-  <br><br>
-  
 ## ✨ Cowork tools ✨
 
 <div>
